@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👨‍💻 Shreyaa Chakraborty | Aspiring GenAI & NLP Engineer
+### 🎓 Computer Science Student @ Ajay Kumar Garg Engineering College
 
-<!--
-**shreyaa-chax05/shreyaa-chax05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an AI/ML student dedicated to mastering the transition from *Discriminative Machine Learning* to *Generative AI*. I spend my time exploring the mathematical foundations of NLP and building projects that make sense of human language.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My Current Focus
+- *Deep Learning for NLP:* Understanding Transformers, Attention mechanisms, and LLM architectures.
+- *Discriminative ML:* Mastering classification, clustering, and the statistical theory behind models like Naive Bayes and SVMs.
+- *Generative AI:* Building RAG (Retrieval-Augmented Generation) pipelines and experimenting with fine-tuning.
+
+---
+
+### 🛠️ The Tech Stack I'm Learning
+- *Languages:* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=postgresql&logoColor=white)
+- *Frameworks:* ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-yellow?style=for-the-badge)
+- *Tools:* LangChain, Vector DBs (Chroma/Pinecone), Git, Docker.
+
+---
+
+### 🧪 Featured Projects (The Lab)
+
+| Project | Description | Tech Used |
+| :--- | :--- | :--- |
+| *[Spam Classifier](link-to-repo)* | A high-precision NLP model using Logistic Regression. | Python, Scikit-Learn |
+
+---
+
+### 📈 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight" height="150" alt="stats logo"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=tokyonight" height="150" alt="languages logo"  />
+</p>
+
+---
+
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/shreyaachakraborty?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[shreyaa.chakraborty05@gmail.com])
+
+"The goal isn't just to write code that works, but to understand why it works."
