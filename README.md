@@ -1,4 +1,4 @@
-# 👨‍💻 Shreyaa Chakraborty | Aspiring GenAI & NLP Engineer
+# 👨‍💻 Shreyaa Chakraborty | Aspiring GenAI Engineer
 ### 🎓 Computer Science Student @ Ajay Kumar Garg Engineering College
 
 I am an AI/ML student dedicated to mastering the transition from *Discriminative Machine Learning* to *Generative AI*. I spend my time exploring the mathematical foundations of NLP and building projects that make sense of human language.
@@ -23,15 +23,7 @@ I am an AI/ML student dedicated to mastering the transition from *Discriminative
 
 | Project | Description | Tech Used |
 | :--- | :--- | :--- |
-| *[Spam Classifier](link-to-repo)* | A high-precision NLP model using Logistic Regression. | Python, Scikit-Learn |
-
----
-
-### 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight" height="150" alt="stats logo"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=tokyonight" height="150" alt="languages logo"  />
-</p>
+| *[Spam Classifier](https://github.com/shreyaa-chax05/spam-detection-nlp)* | A high-precision NLP model using Logistic Regression. | Python, Scikit-Learn |
 
 ---
 
