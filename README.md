@@ -13,8 +13,8 @@ I am a Computer Science student dedicated to mastering the transition from *Disc
 ---
 
 ###  The Tech Stack I'm Learning
-- *Languages:* ![Python]
-- *Frameworks:* ![Tensorflow] ![Scikit-Learn] 
+- *Languages:* Python
+- *Frameworks:* Tensorflow Scikit-Learn 
 - *Tools:* Git
 
 ---
