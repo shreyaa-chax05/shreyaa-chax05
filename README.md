@@ -1,5 +1,4 @@
 #  Shreyaa Chakraborty | Aspiring GenAI Engineer
-###  Computer Science Student 
 
 I am a Computer Science student dedicated to mastering the transition from *Discriminative Machine Learning* to *Generative AI*. I spend my time exploring the mathematical foundations of NLP and building projects that make sense of human language.
 
@@ -31,4 +30,4 @@ I am a Computer Science student dedicated to mastering the transition from *Disc
 LinkedIn
 (https://www.linkedin.com/in/shreyaachakraborty?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-The goal isn't just to write code that works, but to understand why it works.
+ '' The goal isn't just to write code that works, but to understand why it works.''
