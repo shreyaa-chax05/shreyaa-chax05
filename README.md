@@ -12,14 +12,14 @@ I am a Computer Science student dedicated to mastering the transition from *Disc
 
 ---
 
-### 🛠️ The Tech Stack I'm Learning
+###  The Tech Stack I'm Learning
 - *Languages:* ![Python]
 - *Frameworks:* ![Tensorflow] ![Scikit-Learn] 
 - *Tools:* Git
 
 ---
 
-### 🧪 Featured Projects (The Lab)
+###  Featured Projects (The Lab)
 
 | Project | Description | Tech Used |
 | :--- | :--- | :--- |
@@ -27,7 +27,8 @@ I am a Computer Science student dedicated to mastering the transition from *Disc
 
 ---
 
-### 📫 Connect with me
-[![LinkedIn](https://www.linkedin.com/in/shreyaachakraborty?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+###  Connect with me
+# LinkedIn
+(https://www.linkedin.com/in/shreyaachakraborty?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 The goal isn't just to write code that works, but to understand why it works.
