@@ -28,7 +28,7 @@ I am a Computer Science student dedicated to mastering the transition from *Disc
 ---
 
 ###  Connect with me
-# LinkedIn
+LinkedIn
 (https://www.linkedin.com/in/shreyaachakraborty?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 The goal isn't just to write code that works, but to understand why it works.
