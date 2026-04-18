@@ -10,9 +10,6 @@ Undergraduate student working toward machine learning engineering.
 Learning by building — focused on classical ML, NLP fundamentals,  
 and gradually working toward deep learning and generative AI.
 
-![snake](https://raw.githubusercontent.com/shreyaa-chax05/shreyaa-chax05/output/snake.svg#gh-light-mode-only)
-![snake](https://raw.githubusercontent.com/shreyaa-chax05/shreyaa-chax05/output/snake-dark.svg#gh-dark-mode-only)
-
 ---
 
 ### stack
@@ -33,6 +30,20 @@ and gradually working toward deep learning and generative AI.
 
 ---
 
+### stats
+
+![Shreyaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyaa-chax05&show_icons=true&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&theme=default)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaa-chax05&layout=compact&hide_border=true&langs_count=4&theme=default)
+
+---
+
+### contributions
+
+![snake](https://raw.githubusercontent.com/shreyaa-chax05/shreyaa-chax05/output/snake.svg#gh-light-mode-only)
+![snake](https://raw.githubusercontent.com/shreyaa-chax05/shreyaa-chax05/output/snake-dark.svg#gh-dark-mode-only)
+
+---
+
 ### find me
 
 → [linkedin.com/in/shreyaachakraborty](https://www.linkedin.com/in/shreyaachakraborty/)  
@@ -41,10 +52,3 @@ and gradually working toward deep learning and generative AI.
 ---
 
 *still learning. feedback welcome.*
-
----
-
-### stats
-
-![Shreyaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyaa-chax05&show_icons=true&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaa-chax05&layout=compact&hide_border=true&langs_count=4&theme=default)
