@@ -1,6 +1,6 @@
 # Shreyaa Chakraborty
 
-cs student · ml learner · aspiring ml engineer
+cs student · ml learner · aspiring ai engineer
 
 ---
 
