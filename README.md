@@ -1,6 +1,6 @@
 # Shreyaa Chakraborty
 
-cs student · ml learner · aspiring ai engineer
+cs student · ml learner · aspiring ml engineer
 
 ---
 
@@ -9,6 +9,9 @@ cs student · ml learner · aspiring ai engineer
 Undergraduate student working toward machine learning engineering.  
 Learning by building — focused on classical ML, NLP fundamentals,  
 and gradually working toward deep learning and generative AI.
+
+![snake](https://raw.githubusercontent.com/shreyaa-chax05/shreyaa-chax05/output/snake.svg#gh-light-mode-only)
+![snake](https://raw.githubusercontent.com/shreyaa-chax05/shreyaa-chax05/output/snake-dark.svg#gh-dark-mode-only)
 
 ---
 
@@ -38,3 +41,10 @@ and gradually working toward deep learning and generative AI.
 ---
 
 *still learning. feedback welcome.*
+
+---
+
+### stats
+
+![Shreyaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyaa-chax05&show_icons=true&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&theme=default)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaa-chax05&layout=compact&hide_border=true&langs_count=4&theme=default)
