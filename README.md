@@ -47,8 +47,6 @@ and gradually working toward deep learning and generative AI.
 
 ### Contributions
 
-![contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyaa-chax05&theme=minimal&hide_border=true&area=true&color=3B6D11&line=639922&point=3B6D11)
-
 ![snake](https://raw.githubusercontent.com/shreyaa-chax05/shreyaa-chax05/output/snake.svg#gh-light-mode-only)
 ![snake](https://raw.githubusercontent.com/shreyaa-chax05/shreyaa-chax05/output/snake-dark.svg#gh-dark-mode-only)
 
