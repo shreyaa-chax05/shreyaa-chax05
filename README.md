@@ -1,14 +1,12 @@
 # Shreyaa Chakraborty
 
-CS Student · Aspiring AI Engineer
+CS Student 
 
 ---
 
 ### About
 
-Undergraduate student working toward machine learning engineering.
-Learning by building — focused on classical ML, NLP fundamentals,
-and gradually working toward deep learning and generative AI.
+Undergraduate student learning python and ML.
 
 ---
 
