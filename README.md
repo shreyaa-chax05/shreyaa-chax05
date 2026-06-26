@@ -29,9 +29,6 @@ and gradually working toward deep learning and generative AI.
 | Repo | Description |
 |------|-------------|
 | [machine-learning](https://github.com/shreyaa-chax05/machine-learning) | Salary prediction via linear regression — preprocessing, evaluation, Ridge/Lasso |
-| [fake_news_classifier](https://github.com/shreyaa-chax05/fake_news_classifier) | NLP pipeline — stemming, encoding, sequence padding |
-| [spam-detection-nlp](https://github.com/shreyaa-chax05/spam-detection-nlp) | Spam classifier using logistic regression and NLP |
-| [movie-rating-prediction](https://github.com/shreyaa-chax05/movie-rating-prediction) | Sentiment analysis on IMDb reviews |
 | [python_libraries](https://github.com/shreyaa-chax05/python_libraries) | Hands-on practice with Python, OOP, and core libraries |
 
 ---
